@@ -5,7 +5,7 @@ import GetStarted from "./GetStarted"
 const Hero = () => {
   return (
     <section
-      id="home"
+      id="home" 
       className={`flex md:flex-row flex-col ${styles.paddingY}`}
     >
       <div
